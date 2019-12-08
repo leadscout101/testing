@@ -1,0 +1,31 @@
+#Enter your command: print
+#There are no names in contacts.
+#
+#Enter your command: input
+#
+#Enter the name: George Washington
+#
+#Enter the telephone number: 72736783894
+#
+#Enter the email: george.washington@zoznam.sk
+#
+#Enter your command: print
+#
+#
+#George Washington 72736783894 george.washington@zoznam.sk
+#
+#Enter your command: input
+#
+#Enter the name: John Adams
+#
+#Enter the telephone number: 939843632833
+#
+#Enter the email: john.adams@yahoo.com
+#
+#Enter your command: print
+#
+#
+#George Washington 72736783894 george.washington@zoznam.sk
+#John Adams 939843632833 john.adams@yahoo.com
+#
+#Enter your command: input

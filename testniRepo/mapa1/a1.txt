@@ -1,0 +1,35 @@
+HOMEWORK ASSIGNMENT - CONTACTS
+
+# For your homework you should write an program that will keep track
+# of contacts you (user) enter into the program.
+# The program should store names, telehone numbers and emails in memory.
+#When you run the program there should be no contacts in the memory and
+# the user should be able to enter, delete, print and find concats
+# by interacting with the program in the console.
+
+# The program should accept 5 commands from the user: 'input', 'print',
+# 'delete', 'find' and 'end' command.
+
+# 'input' command should promt the user to enter name, telephone number and
+# email of the contact they want to add and add the contact into the memory
+#If there allready is such a contact in the memory, the program should
+# inform the user and dont add that contact to memory - two contacts
+# of the same name should not be added to memory
+
+# 'print' command should print all concats in memory, if
+# there are no contacts in memory it should inform user that there are
+# no contacts
+
+# 'delete' command should promt the user to enter the name of the
+# contact they want to delete from memory and then delete the contact
+#If there is no such contact in the memory the program should
+# inform the user that there is no such contact
+
+# 'find' command should promt the user to enter the name of the contact they want
+# to find and then print that contact.
+# If there is no such contact in the memory the program should inform
+# the user
+
+# 'end' command should end the program
+
+# USE FUNCTIONS WHEN IMPLEMENTING  'input', 'print','delete', 'find' COMMANDS!!!!
